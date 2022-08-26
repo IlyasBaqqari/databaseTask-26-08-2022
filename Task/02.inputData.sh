@@ -1,0 +1,1 @@
+mysql --user=asdaUser --password=password asdaDatabase < 02.inputData.sql
